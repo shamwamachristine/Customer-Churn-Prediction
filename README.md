@@ -3,8 +3,8 @@
 
 Customer churn is one of the biggest problems facing telecom companies at the moment.Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9%. A telecom company wants to know the reasons why customers churn and also find ways to ensure that customers do not churn.
 Objectives
-* Analyze the provided dataset to determine the current customer churn rate.
-* Identify the key factors and variables that influence customer churn.
+
+
 * Explore customer demographics, usage patterns, and service features to uncover potential churn drivers.
 * Develop predictive models to forecast customer churn and evaluate their accuracy.
 * Generate actionable insights and recommendations for the company to reduce churn and improve customer retention.
