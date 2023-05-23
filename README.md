@@ -53,10 +53,10 @@ The higher the customer service calls the higher the rate of the customer churn
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/fc1f268b-85e3-4dcb-a9e1-01ae930eb1c3)
 
 The total number of minutes the customer used during the day has a negligable relationship between Non-churn and Churn customer
-* Time period the customer has been with the service provider does not affect the churn rate
+
 
 *  Customer service calls made by the customer affects the churn rate. WE have high churned subscribers with high customer service calls.
-* Having no international plan has shown a high rate of customer churn
+
 
 
 
