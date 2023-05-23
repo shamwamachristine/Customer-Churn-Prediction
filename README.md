@@ -30,4 +30,5 @@ Objectives
 * ```Churn:``` Whether the customer has churned or not (True or False).
 
 EDA
-<img src="/home/christine/Downloads/churn dataset/image/output.png" alt="customer distribution per state" width="500" height="250">
+
+![Alt Text]("/home/christine/Downloads/churn dataset/image/output.png")
