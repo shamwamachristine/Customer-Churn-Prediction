@@ -66,6 +66,17 @@ Model Results
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/de074d0c-90c1-4bc4-aa46-1a0a3338373c)
 
 
+Conclusions
+
+* Random Forest: The Random Forest model has the highest AUC score of 0.912, indicating better class separation compared to the other models. This suggests that the Random Forest model performs well in distinguishing between the classes.
+
+* Decision Tree: The Decision Tree model has an AUC score of 0.822, which is lower than the Random Forest model but still indicates a good level of class separation. The Decision Tree model performs reasonably well in distinguishing between the classes
+* Logistic Regression: The Logistic Regression model has an AUC score of 0.776936. While it has a lower AUC score compared to the Random Forest and Decision Tree models, it can still provide some level of class separation, although not as strong as the other models.
+* KNN: The KNN model has the lowest AUC score of 0.673, indicating relatively weaker class separation compared to the other models. The KNN model may struggle to distinguish between the classes effectively.
+
+Based on the AUC scores alone, the Random Forest model appears to be the best performer among the four models.
+
+
 
 
 
