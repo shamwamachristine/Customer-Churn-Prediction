@@ -1,3 +1,6 @@
+![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/b44236c9-91ef-4426-83f9-bb58b5b7cad8)
+
+
 Customer churn is one of the biggest problems facing telecom companies at the moment.Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9%. A telecom company wants to know the reasons why customers churn and also find ways to ensure that customers do not churn.
 Objectives
 * Analyze the provided dataset to determine the current customer churn rate.
