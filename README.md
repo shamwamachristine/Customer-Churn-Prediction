@@ -49,6 +49,11 @@ The churn column is normally distributed
 
 The higher the customer service calls the higher the rate of the customer churn
 
+![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/fc1f268b-85e3-4dcb-a9e1-01ae930eb1c3)
+
+Time period the customer has been with the service provider does not affect the churn rate
+
+
 
 
 Models: Logistic Regression
@@ -62,9 +67,6 @@ Model Results
 
 
 
-![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/fc1f268b-85e3-4dcb-a9e1-01ae930eb1c3)
-
-Time period the customer has been with the service provider does not affect the churn rate
 
 
 
