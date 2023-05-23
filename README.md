@@ -32,21 +32,26 @@ Objectives
 EDA
 
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/8c21e5cf-b68d-461c-9ae6-d4329a3958dc)
+
 showing the distribution of customers across the top 10 states, with each bar representing the count of customers in a particular state
 
 
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/24dea966-874e-4660-849a-5bd851c80e02)
+
 This data represents three area codes which are not normally distributed
 
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/0ca9b746-29a4-4cd4-99cc-9185916b7a6d)
+
 The churn column is normally distributed 
 * If the customer service is call is high chances of churn are high
 
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/1783575d-a16a-4486-b52a-004c7bdff1ab)
+
 The higher the customer service calls the higher the rate of the customer churn
 
 
 ![image](https://github.com/shamwamachristine/Customer-Churn-Prediction/assets/124347570/fc1f268b-85e3-4dcb-a9e1-01ae930eb1c3)
+
 The total number of minutes the customer used during the day has a negligable relationship between Non-churn and Churn customer
 * Time period the customer has been with the service provider does not affect the churn rate
 
